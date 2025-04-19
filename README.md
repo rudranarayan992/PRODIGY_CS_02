@@ -76,6 +76,18 @@ You can modify the script to change the key or switch to decryption.
 
 ---
 
+the application by running the script locally.
+
+Ensure Dependencies:
+
+Install the required libraries:
+
+pip install pillow numpy
+
+Run the Script:
+
+Execute the Python script using python script_rudra.py and follow the on-screen instructions for encrypting and decrypting images.
+
 ## ✍️ Author
 
 **Rudra Narayan Swain**  
